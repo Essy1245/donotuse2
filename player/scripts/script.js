@@ -40,16 +40,16 @@ new Vue({
           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/Kidding_me.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
+        },
+        {
+          name: "Aether",
+          artist: "Geoxor",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/aether.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/aether.mp3",
+          url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
+          favorited: true
         }
-//         },
-//         {
-//           name: "Aether",
-//           artist: "Geoxor",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/aether.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/aether.mp3",
-//           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
-//           favorited: true
-//         },
+//         ,
 //         {
 //           name: "Lucid Dream",
 //           artist: "Geoxor & Panda Eyes",
