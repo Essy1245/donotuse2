@@ -29,7 +29,7 @@ new Vue({
           name: "Not Shy",
           artist: "ITZY",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/notshy.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/Notshy.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/Not_shy.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
