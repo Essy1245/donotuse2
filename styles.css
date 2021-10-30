@@ -20,6 +20,7 @@ h1 {
 
 *{
     background-image: linear-gradient(skyblue, #C791E2);
+    overflow: visible;
 }
 
 
