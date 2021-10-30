@@ -1,15 +1,11 @@
-/* Place your CSS styles in this file */
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap" rel="stylesheet">
-
 html {
-    background-color: #000000;
-    font-family: "Rajdhani";
-    text-align: center;
-    font-weight: normal;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Teko', sans-serif;
+    background-color: black;
 }
 
 h1 {
-    
+    text-align: center;
+    font-weight: normal;
+    color: white;
 }
