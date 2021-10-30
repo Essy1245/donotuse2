@@ -1,10 +1,10 @@
 body {
   background: #dfe7ef;
-  font-family: "Rajdhani", serif;
 }
 
 * {
   box-sizing: border-box;
+  font-family: "Rajdhani", serif;
 }
 
 .icon {
