@@ -45,7 +45,7 @@ new Vue({
           name: "Aether",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/aether.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/aether.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/Aether.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
           favorited: true
         }
