@@ -37,7 +37,7 @@ new Vue({
           name: "Kidding Me",
           artist: "ITZY",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/itzy_guesswho.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/kiddingme.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/Kidding_me.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
         },
