@@ -21,7 +21,7 @@ new Vue({
           name: "마.피.아. In the morning",
           artist: "ITZY",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/Mafia.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: false
         },
@@ -29,7 +29,7 @@ new Vue({
           name: "Not Shy",
           artist: "ITZY",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/notshy.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
@@ -37,7 +37,7 @@ new Vue({
           name: "Kidding Me",
           artist: "ITZY",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/kiddingme.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
         },
@@ -45,7 +45,7 @@ new Vue({
           name: "Aether",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/aether.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
           favorited: true
         },
@@ -53,7 +53,7 @@ new Vue({
           name: "Lucid Dream",
           artist: "Geoxor & Panda Eyes",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/luciddream.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
         },
@@ -61,7 +61,7 @@ new Vue({
           name: "Crystalized",
           artist: "Camellia",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/crystalized.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
           favorited: true
         },
@@ -69,7 +69,7 @@ new Vue({
           name: "Sakura",
           artist: "Geoxor & Canonblade",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/sakura.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
@@ -77,7 +77,7 @@ new Vue({
           name: "Stardust",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/stardust.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
@@ -85,7 +85,7 @@ new Vue({
           name: "Perfume!",
           artist: "fusq",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/perfume.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
@@ -93,7 +93,7 @@ new Vue({
           name: "Galaxy",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/galaxy.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
@@ -101,7 +101,7 @@ new Vue({
           name: "Wonder Pop",
           artist: "Moe shop",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/wonderpop.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
@@ -109,7 +109,7 @@ new Vue({
           name: "Nana",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/nana.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
@@ -117,7 +117,7 @@ new Vue({
           name: "Bloodlust",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/bloodlust.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
@@ -125,7 +125,7 @@ new Vue({
           name: "Ping",
           artist: "Exyl",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/ping.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
@@ -133,7 +133,7 @@ new Vue({
           name: "Lagtrain",
           artist: "inabakumori",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/lagtrain.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
@@ -141,7 +141,7 @@ new Vue({
           name: "WWW",
           artist: "Moe shop",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/www.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
@@ -149,7 +149,7 @@ new Vue({
           name: "I don't care about Christmas though",
           artist: "Camellia & Nanahira",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/boringchristmas.mp3",
           url: "https://www.youtube.com/watch?v=jFt4GIgtpBE",
           favorited: true
         }
