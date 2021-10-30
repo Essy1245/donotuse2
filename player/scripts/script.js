@@ -67,7 +67,7 @@ new Vue({
         },
         {
           name: "Sakura",
-          artist: "Geoxor & Canonblade"
+          artist: "Geoxor & Canonblade",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
@@ -83,7 +83,7 @@ new Vue({
         },
         {
           name: "Perfume!",
-          artist: "fusq"
+          artist: "fusq",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
@@ -115,7 +115,7 @@ new Vue({
         },
         {
           name: "Bloodlust",
-          artist: "Geoxor"
+          artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
@@ -146,12 +146,12 @@ new Vue({
           favorited: false
         },
         {
-          name: "But I'm Not Interested In Christmas At All",
+          name: "I don't care about Christmas though",
           artist: "Camellia & Nanahira",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
-          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
-          favorited: false
+          url: "https://www.youtube.com/watch?v=jFt4GIgtpBE",
+          favorited: true
         }
       
       ],
