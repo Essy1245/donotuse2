@@ -13,7 +13,7 @@ new Vue({
           name: "Sorry not Sorry",
           artist: "ITZY",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/sorrynotsorry.mp3",
           url: "https://youtu.be/nQKIWy27zN4",
           favorited: false
         },
