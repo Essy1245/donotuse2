@@ -60,7 +60,7 @@ new Vue({
         {
           name: "Crystalized",
           artist: "Camellia",
-          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/crystalized.jpg",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/crystallized.jpg",
           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/crystalized.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
           favorited: true
