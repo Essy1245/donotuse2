@@ -10,77 +10,150 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Sorry not Sorry",
+          artist: "ITZY",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
+          name: "마.피.아. In the morning",
+          artist: "ITZY",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
-          favorited: true
+          favorited: false
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
+          name: "Not Shy",
+          artist: "ITZY",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
         {
-          name: "Butterflies",
-          artist: "Sia",
+          name: "Kidding Me",
+          artist: "ITZY",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
         },
         {
-          name: "The Final Victory",
-          artist: "Haggard",
+          name: "Aether",
+          artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
           favorited: true
         },
         {
-          name: "Genius ft. Sia, Diplo, Labrinth",
-          artist: "LSD",
+          name: "Lucid Dream",
+          artist: "Geoxor & Panda Eyes",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
+          name: "Crystalized",
+          artist: "Camellia",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
           favorited: true
         },
         {
-          name: "Overdose",
-          artist: "Grandson",
+          name: "Sakura",
+          artist: "Geoxor & Canonblade"
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
         {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
+          name: "Stardust",
+          artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
+        },
+        {
+          name: "Perfume!",
+          artist: "fusq"
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
+        },
+        {
+          name: "Galaxy",
+          artist: "Geoxor",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        },
+        {
+          name: "Wonder Pop",
+          artist: "Moe shop",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
+        },
+        {
+          name: "Nana",
+          artist: "Geoxor",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        },
+        {
+          name: "Bloodlust",
+          artist: "Geoxor"
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
+        },
+        {
+          name: "Ping",
+          artist: "Exyl",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        },
+        {
+          name: "Lagtrain",
+          artist: "inabakumori",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
+        },
+        {
+          name: "WWW",
+          artist: "Moe shop",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        },
+        {
+          name: "But I'm Not Interested In Christmas At All",
+          artist: "Camellia & Nanahira",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
+          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
         }
+      
       ],
       currentTrack: null,
       currentTrackIndex: 0,
