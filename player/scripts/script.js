@@ -53,7 +53,7 @@ new Vue({
           name: "Lucid Dream",
           artist: "Geoxor & Panda Eyes",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/luciddream.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/luciddream.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/LucidDreaM.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
         },
@@ -61,7 +61,7 @@ new Vue({
           name: "Crystalized",
           artist: "Camellia",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/crystallized.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/crystalized.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Crystalized.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
           favorited: true
         },
@@ -69,7 +69,7 @@ new Vue({
           name: "Sakura",
           artist: "Geoxor & Canonblade",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/sakura.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/sakura.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Sakura.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
@@ -77,7 +77,7 @@ new Vue({
           name: "Stardust",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/stardust.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/stardust.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Stardust.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
@@ -85,7 +85,7 @@ new Vue({
           name: "Perfume!",
           artist: "fusq",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/perfume.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/perfume.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Perfume!.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
@@ -93,7 +93,7 @@ new Vue({
           name: "Galaxy",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/galaxy.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/galaxy.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Galaxy.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
@@ -101,7 +101,7 @@ new Vue({
           name: "Wonder Pop",
           artist: "Moe shop",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/wonderpop.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/wonderpop.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/WONDERPOP.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
@@ -109,7 +109,7 @@ new Vue({
           name: "Nana",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/nana.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/nana.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Nana.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
@@ -117,7 +117,7 @@ new Vue({
           name: "Bloodlust",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/bloodlust.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/bloodlust.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Bloodlust.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
@@ -125,7 +125,7 @@ new Vue({
           name: "Ping",
           artist: "Exyl",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/ping.jfif",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/ping.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Ping.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
@@ -141,7 +141,7 @@ new Vue({
           name: "WWW",
           artist: "Moe shop",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/www.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/www.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/WWW.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         },
