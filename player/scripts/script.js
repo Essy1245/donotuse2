@@ -13,7 +13,7 @@ new Vue({
           name: "Sorry not Sorry",
           artist: "ITZY",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/itzy_guesswho.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/sorrynotsorry.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/sorrynotsorry.mp3",
           url: "https://youtu.be/nQKIWy27zN4",
           favorited: false
         },
@@ -21,7 +21,7 @@ new Vue({
           name: "마.피.아. In the morning",
           artist: "ITZY",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/itzy_guesswho.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/Mafia.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Mafia.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: false
         },
@@ -29,7 +29,7 @@ new Vue({
           name: "Not Shy",
           artist: "ITZY",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/notshy.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/Not_shy.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Not_shy.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
@@ -37,7 +37,7 @@ new Vue({
           name: "Kidding Me",
           artist: "ITZY",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/itzy_guesswho.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/Kidding_me.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Kidding_me.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
         },
@@ -45,115 +45,114 @@ new Vue({
           name: "Aether",
           artist: "Geoxor",
           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/aether.jpg",
-          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/Aether.mp3",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/Aether.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
           favorited: true
+        },
+        {
+          name: "Lucid Dream",
+          artist: "Geoxor & Panda Eyes",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/luciddream.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/luciddream.mp3",
+          url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+          favorited: false
+        },
+        {
+          name: "Crystalized",
+          artist: "Camellia",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/crystallized.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/crystalized.mp3",
+          url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
+          favorited: true
+        },
+        {
+          name: "Sakura",
+          artist: "Geoxor & Canonblade",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/sakura.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/sakura.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
+        },
+        {
+          name: "Stardust",
+          artist: "Geoxor",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/stardust.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/stardust.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        },
+        {
+          name: "Perfume!",
+          artist: "fusq",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/perfume.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/perfume.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
+        },
+        {
+          name: "Galaxy",
+          artist: "Geoxor",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/galaxy.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/galaxy.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        },
+        {
+          name: "Wonder Pop",
+          artist: "Moe shop",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/wonderpop.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/wonderpop.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
+        },
+        {
+          name: "Nana",
+          artist: "Geoxor",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/nana.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/nana.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        },
+        {
+          name: "Bloodlust",
+          artist: "Geoxor",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/bloodlust.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/bloodlust.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
+        },
+        {
+          name: "Ping",
+          artist: "Exyl",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/ping.jfif",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/ping.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        },
+        {
+          name: "Lagtrain",
+          artist: "inabakumori",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/lagtrain.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/lagtrain.mp3",
+          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          favorited: false
+        },
+        {
+          name: "WWW",
+          artist: "Moe shop",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/www.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/www.mp3",
+          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          favorited: false
+        },
+        {
+          name: "I don't care about Christmas though",
+          artist: "Camellia & Nanahira",
+          cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/boringchristmas.jpg",
+          source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio2/boringchristmas.mp3",
+          url: "https://www.youtube.com/watch?v=jFt4GIgtpBE",
+          favorited: true
         }
-//         ,
-//         {
-//           name: "Lucid Dream",
-//           artist: "Geoxor & Panda Eyes",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/luciddream.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/luciddream.mp3",
-//           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
-//           favorited: false
-//         },
-//         {
-//           name: "Crystalized",
-//           artist: "Camellia",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/crystallized.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/crystalized.mp3",
-//           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
-//           favorited: true
-//         },
-//         {
-//           name: "Sakura",
-//           artist: "Geoxor & Canonblade",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/sakura.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/sakura.mp3",
-//           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
-//           favorited: false
-//         },
-//         {
-//           name: "Stardust",
-//           artist: "Geoxor",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/stardust.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/stardust.mp3",
-//           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
-//           favorited: false
-//         },
-//         {
-//           name: "Perfume!",
-//           artist: "fusq",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/perfume.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/perfume.mp3",
-//           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
-//           favorited: false
-//         },
-//         {
-//           name: "Galaxy",
-//           artist: "Geoxor",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/galaxy.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/galaxy.mp3",
-//           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
-//           favorited: false
-//         },
-//         {
-//           name: "Wonder Pop",
-//           artist: "Moe shop",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/wonderpop.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/wonderpop.mp3",
-//           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
-//           favorited: false
-//         },
-//         {
-//           name: "Nana",
-//           artist: "Geoxor",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/nana.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/nana.mp3",
-//           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
-//           favorited: false
-//         },
-//         {
-//           name: "Bloodlust",
-//           artist: "Geoxor",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/bloodlust.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/bloodlust.mp3",
-//           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
-//           favorited: false
-//         },
-//         {
-//           name: "Ping",
-//           artist: "Exyl",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/ping.jfif",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/ping.mp3",
-//           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
-//           favorited: false
-//         },
-//         {
-//           name: "Lagtrain",
-//           artist: "inabakumori",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/lagtrain.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/lagtrain.mp3",
-//           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
-//           favorited: false
-//         },
-//         {
-//           name: "WWW",
-//           artist: "Moe shop",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/www.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/www.mp3",
-//           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
-//           favorited: false
-//         },
-//         {
-//           name: "I don't care about Christmas though",
-//           artist: "Camellia & Nanahira",
-//           cover: "https://raw.githubusercontent.com/Essy1245/donotuse2/main/player/img/boringchristmas.jpg",
-//           source: "https://github.com/Essy1245/donotuse2/raw/main/player/audio/boringchristmas.mp3",
-//           url: "https://www.youtube.com/watch?v=jFt4GIgtpBE",
-//           favorited: true
-//         }
       
       ],
       currentTrack: null,
