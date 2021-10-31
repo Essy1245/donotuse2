@@ -13,6 +13,7 @@ h1 {
 
 *{
     overflow: visible;
+	
 }
 
 @keyframes gradient {
@@ -28,8 +29,7 @@ h1 {
 }
 
 html {
-	font-family: 'Rajdhani', sans-serif;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Comfortaa', sans-serif;
 	background: linear-gradient(-45deg, #e73c7e, #ee7752, #A07AE1, #23a6d5, #90EDF9, #23d5ab, #EDDD92);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
