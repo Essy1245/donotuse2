@@ -1,3 +1,8 @@
+var audiomod = document.getElementById("app");
+function quietvolume() { 
+  audiomod.volume = 0.2;
+}
+
 new Vue({
   el: "#app",
   data() {
@@ -282,3 +287,5 @@ new Vue({
     }
   }
 });
+
+quietvolume();
